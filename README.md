@@ -79,7 +79,3 @@ Then run:
 - Clean C++ structure with dynamic memory
 
 ---
-
-## 📜 License
-
-MIT License — free for personal and educational use.
