@@ -60,13 +60,13 @@ Any unknown pattern name will initialize a random board.
 ## 🛠️ Compile Instructions
 
 ```bash
-g++ main.cpp src/GameOfLife.cpp -o game -std=c++11
+g++ main.cpp src/GameOfLife.cpp -o conway-game-cpp -std=c++11
 ```
 
 Then run:
 
 ```bash
-./game
+./conway-game-cpp
 ```
 
 ---
